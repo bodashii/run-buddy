@@ -39,7 +39,7 @@ header {
 /* apply styles to header h1 and a elements */
 header h1 {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 48px;
     color: var(--primary-color);
     margin: 0;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
